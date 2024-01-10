@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ashurajput-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashu-rajput-14334a24b)
-- [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashurajput95489/)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashurajput95489/)
 [![Gmail Badge](https://img.shields.io/badge/-ashurajput7017@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ashurajput7017@gmail.com)
 
 - ---

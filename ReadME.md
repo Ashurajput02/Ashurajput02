@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llYXl6dHducXU2ZnhwMG1vYXdtdm9wNWJpd3d3eHBsanc2Z2h4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
@@ -11,7 +11,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Ashurajput02&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk1YWcyM2J5M2FnOXpwbzg2aHZwMnpsdnhyZmJuZ3loZnR6b3ptMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="30px"/>
 </h1>
 
@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -28,7 +28,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 - :seedling:Exploring the wolrd of apps with Kotlin and Flutter.
-
+-:seedling: Achieved a perfect 10 CGPA in college.
+- 🧑‍💻 Core member of the Google Developer Student Clubs (GDSC) - contributing to app development.
+- ✍️ Passionate technical content writer.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ashurajput-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashu-rajput-14334a24b)

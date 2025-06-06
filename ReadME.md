@@ -22,16 +22,13 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack App and Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m undergraduate student at IIIT Nagpur and contributing to frontend and backend for building web and mobile applications.
-
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m undergraduate student at IIIT Nagpur who loves to cook backend and craft beautiful Apps from Flutter and Kotlin.
 - :seedling:Exploring the wolrd of apps with Kotlin and Flutter.
--:seedling: Achieved a perfect 10 CGPA in college.
-- 🧑‍💻 Core member of the Google Developer Student Clubs (GDSC) - contributing to app development.
-- ✍️ Passionate technical content writer.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling:Exploring the world of backend in MERN and Python(Django)
+-:seedling: Achieved a perfect 10 CGPA in college in sem 1,3,4,5,6 with overall 9.97 CGPA.
+- 🧑‍💻 Google Developer Groups On Campus IIIT Nagpur LEAD.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ashurajput-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashu-rajput-14334a24b)
 [![Gmail Badge](https://img.shields.io/badge/-ashurajput7017@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ashurajput7017@gmail.com)
